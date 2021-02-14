@@ -1,7 +1,7 @@
 # :loudspeaker: JPA 영속성이란?
 
 ## 영속성 컨텍스트란?
-- Entity가 영구적으로 저장되는 공간 (논리적인 개념)
+- Entity가 1차 캐시 메모리에 저장되는 공간 (논리적인 개념)
 
 ## Entity Manager란?
 - 영속성 컨텍스트 안에 담긴 Entity를 관리하는 기능
