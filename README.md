@@ -2,5 +2,5 @@
 
 ## :pushpin: List
 - [홈택스 스크래핑](https://github.com/ungseokchoi/feed/blob/master/issues/homeTax/홈택스_스크래핑.md)
-- [JPA] 추가 예정
+- [JPA] 추가 예정(https://github.com/ungseokchoi/feed/blob/master/issues/jpa/JPA.md)
 
