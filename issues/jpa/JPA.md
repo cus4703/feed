@@ -12,3 +12,4 @@ Java는 객체지향 언어이고, DataBase는 데이터 중심으로 구성되�
 # :pushpin:
 - [JPA 구동 원리](/issues/jpa/JPA_구동원리.md)
 - [JPA 영속성 개념](/issues/jpa/JPA_영속성개념.md)
+- [JPA 연관관계 매핑](/issues/jpa/JPA_연관관계매핑.md)
