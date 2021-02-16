@@ -1,4 +1,4 @@
-# :newspaper: JPA 연관관계 매핑에 대해 알아보자
+# :loudspeaker: JPA 연관관계 매핑에 대해 알아보자
 
 :exclamation: 
 객체 관계 매핑(ORM)에서 가장 어려운 부분이 객체 연관관계와 테이블 연관관계를 매핑하는 일이다.  
