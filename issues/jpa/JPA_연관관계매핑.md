@@ -27,14 +27,14 @@
 ``` java
 public class Member {
     @Id
-    @Column(name = "MEMBER_ID")
+    @Column(name = "member_id")
     private String id;
 
     private String username;
 
     // 연관 관계 맵핑
     @ManyToOne
-    @JoinColumn(name="TEAM_ID")
+    @JoinColumn(name="team_id")
     private Team team;
 }
 ```
@@ -43,7 +43,7 @@ public class Member {
 public class Team {
 
     @Id
-    @Column(name = "TEAM_ID")
+    @Column(name = "team_id")
     private String id;
 
     private String name;
