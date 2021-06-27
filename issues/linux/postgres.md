@@ -25,6 +25,6 @@
   
 ### service 등록 과 데이터베이스 서비스 실행
 - 설치시 기본적인 service 가 같이 설치된다. 그러므로 추가적인 service 파일을 만들지 않아도 됨.  
-  sudo systemctl enable postgresql-12   -- 서비스 등록
+  sudo systemctl enable postgresql-12   -- 서비스 등록   
   sudo systemctl start postgresql-12    -- 서비스 실행
   
