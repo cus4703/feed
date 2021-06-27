@@ -6,4 +6,4 @@
 - [홈택스 스크래핑](https://github.com/ungseokchoi/feed/blob/master/issues/homeTax/홈택스_스크래핑.md)
 - [JPA](https://github.com/ungseokchoi/feed/blob/master/issues/jpa/JPA.md)
 - [quartzBatch](https://github.com/ungseokchoi/feed/blob/master/issues/quartz/quartzBatch.md)
-
+- [Linux Postgres 설치](https://github.com/ungseokchoi/feed/blob/master/issues/linux/postgres.md)
