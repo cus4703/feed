@@ -56,7 +56,7 @@ local   all   all   md5
     pam : PAM(Pluggable Authentication Modules)서비스를 사용한 인증
   
 - postgresql.conf 파일 관련 설명  
-    postgres의 기본적인 설정 을 설정 할 수 있다.
+    postgres의 기본적인 설정 을 설정 할 수 있다.  
     특별하게 설정 할 값이 없다면 listen_addresses = '*' 부분만 이렇게 바꿔주도록 한다.
 
   
